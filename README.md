@@ -5,6 +5,6 @@ Currently: The program shows an overview of all Minecraft updates, ranging from 
 
 The program contains cover art, music and a loading screen.
 
-Coming soon: I plan to make a complete wiki about every block, animal, monster, curiosity and more. I will be launching the program here as I update.
+Coming soon: I plan to make a complete wiki about every block, animal, monster, curiosity, new languages and more. I will be launching the program here as I update.
 
 You can already use the latest version of WikiCraft in the releases part.
