@@ -1,4 +1,6 @@
 # WikiCraft
+![GitHub language count](https://img.shields.io/github/languages/count/Jolonte/WikiCraft)
+![GitHub top language](https://img.shields.io/github/languages/top/Jolonte/WikiCraft)
 
 <p align="center">
   <img width="600" src="assets/to_readme/splashtogithub.png"
