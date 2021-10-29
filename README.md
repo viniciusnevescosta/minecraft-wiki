@@ -1,4 +1,15 @@
 # WikiCraft
+
+<p align="center">
+  <img width="470" src="assets/to_readme/splashtogithub.png"
+</p>
+
+<p align="center">
+  <img width="800" height="480" src="assets/to_readme/wikicraft_git.gif"
+</p>
+
+
+
 A program aiming to be a quick Minecraft wiki [still in development]
 
 Currently: The program shows an overview of all Minecraft updates, ranging from the first official version (1.0) to the most recent (1.17).
