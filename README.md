@@ -1,7 +1,7 @@
 # WikiCraft
 
 <p align="center">
-  <img width="470" src="assets/to_readme/splashtogithub.png"
+  <img width="600" src="assets/to_readme/splashtogithub.png"
 </p>
 
 <p align="center">
