@@ -18,6 +18,8 @@ When selecting the version you want, the program informs the name, the release d
 ### Currently 
 The program shows an overview of all Minecraft updates, ranging from the first official version (1.0) to the most recent (1.17).
 The program contains cover art, music and a loading screen.
+  
+  - Wiki available only in PT-BR.
 
 ### Coming soon
 I plan to make a complete wiki about every block, animal, monster, curiosity, new languages and more. I will be launching the program here as I update.
