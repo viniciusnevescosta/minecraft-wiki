@@ -19,6 +19,7 @@ The program shows an overview of all Minecraft updates, ranging from the first o
 The program contains cover art, music and a loading screen.
   
   - Wiki available only in PT-BR.
+  - Windows only compatible.
 
 ### Coming soon
 I plan to make a complete wiki about every block, animal, monster, curiosity, new languages and more. I will be launching the program here as I update.
