@@ -40,6 +40,10 @@ Este projeto é uma iniciativa educativa para fornecer informações abrangentes
 
 ## Como Testar
 
+### Download
+
+- [V1.0](https://github.com/viniciusnevescosta/minecraft-wiki/releases/tag/v1.0)
+
 ### Localmente
 
 1. **Clone o Repositório:**
