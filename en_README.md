@@ -1,72 +1,72 @@
-# Minecraft Wiki
+# MinecraftWiki
 
 ![Archived(10)](https://github.com/viniciusnevescosta/minecraft-wiki/assets/66970818/6d542708-ce12-4872-9126-77174655aeb3)
 
-Bem-vindo ao repositório do meu projeto "Minecraft Wiki"! Aqui, criei uma Wiki para todas as versões do Minecraft (1.17 na época). Passeie pela caverna da informação e descubra que, assim como no jogo, até mesmo a Wiki tem um tema escuro. Obs: Não há creepers, apenas conhecimento explosivo!
+Welcome to the repository of my "Minecraft Wiki" project! Here, I created a Wiki for all versions of Minecraft (1.17 at the time). Wander through the cave of information and discover that, just like in the game, even the Wiki has a dark theme. Note: There are no creepers, just explosive knowledge!
 
 - [Read in english](en_README.md)
 
-## Sumário de Conteúdos
+## Summary of Contents
 
-- [Visão Geral](#visão-geral)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Funcionalidades](#funcionalidades)
-- [Como Testar](#como-testar)
-- [Aprendizados Adquiridos](#aprendizados-adquiridos)
+- [Overview](#overview)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [How to Test](#how-to-test)
+- [Learning Acquired](#learning-acquired)
 
-## Visão Geral
+## Overview
 
 <p align="center">
-  <img width="800" height="480" src="assets/to_readme/wikicraft_git.gif"
+   <img width="800" height="480" src="assets/to_readme/wikicraft_git.gif"
 </p>
 
-Este projeto é uma iniciativa educativa para fornecer informações abrangentes sobre o universo do Minecraft. A Wiki aborda todas as versões, destacando recursos, blocos, criaturas e muito mais, proporcionando uma fonte de conhecimento para jogadores e entusiastas.
+This project is an educational initiative to provide comprehensive information about the Minecraft universe. The Wiki covers all versions, highlighting resources, blocks, creatures and more, providing a source of knowledge for players and enthusiasts.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **VB.net:** Uma linguagem de programação versátil e orientada a objetos.
-- **Windows Forms:** Um conjunto de ferramentas para o desenvolvimento de interfaces gráficas no ambiente Windows.
+- **VB.net:** A versatile, object-oriented programming language.
+- **Windows Forms:** A set of tools for developing graphical interfaces in the Windows environment.
 
-## Funcionalidades
+## Functionalities
 
-1. **Exploração de Versões:**
-   - Navegue pelas diferentes versões do Minecraft para acessar informações específicas.
+1. **Version Exploration:**
+    - Browse different versions of Minecraft to access specific information.
 
-2. **Detalhes sobre Recursos:**
-   - Informações detalhadas sobre blocos, itens, criaturas e recursos do jogo.
+2. **Resource Details:**
+    - Detailed information about blocks, items, creatures and game resources.
 
-3. **Pesquisa Eficiente:**
-   - Utilize a função de pesquisa para encontrar rapidamente informações específicas.
+3. **Efficient Search:**
+    - Use the search function to quickly find specific information.
 
-## Como Testar
+## How to Test
 
-### Download
+###Download
 
 - [V1.0](https://github.com/viniciusnevescosta/minecraft-wiki/releases/tag/v1.0)
 
-### Localmente
+### Locally
 
-1. **Clone o Repositório:**
-   ```bash
-   git clone https://github.com/viniciusnevescosta/minecraft-wiki.git
-   ```
+1. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/viniciusnevescosta/minecraft-wiki.git
+    ```
 
-2. **Abra o Projeto no Visual Studio:**
-   - Abra o projeto no Visual Studio (ou em um ambiente de desenvolvimento compatível com VB.net).
+2. **Open the Project in Visual Studio:**
+    - Open the project in Visual Studio (or a VB.net compatible development environment).
 
-3. **Execute o Projeto:**
-   - Compile e execute o projeto para iniciar a Minecraft Wiki.
+3. **Execute the Project:**
+    - Compile and run the project to launch the Minecraft Wiki.
 
-4. **Explore a Wiki:**
-   - Navegue pelas versões, pesquise informações e aproveite a Wiki do Minecraft.
+4. **Explore the Wiki:**
+    - Browse versions, search for information, and enjoy the Minecraft Wiki.
 
-## Aprendizados Adquiridos
+## Learning Acquired
 
-Durante o desenvolvimento deste projeto, adquiri conhecimentos importantes, incluindo:
+During the development of this project, I acquired important knowledge, including:
 
-- 🖥 Desenvolvimento de uma aplicação Wiki interativa usando VB.net e Windows Forms.
-- 🎨 Implementação de um tema escuro para melhorar a experiência visual.
+- 🖥 Development of an interactive Wiki application using VB.net and Windows Forms.
+- 🎨 Implementation of a dark theme to improve the visual experience.
 
 ---
 
-**Nota:** Este projeto foi arquivado pois representa um estudo concluído com sucesso. Não há planos de desenvolvimento adicional, pois seus objetivos foram alcançados com êxito.
+**Note:** This project has been archived as it represents a successfully completed study. There are no plans for further development as its objectives have been successfully achieved.
