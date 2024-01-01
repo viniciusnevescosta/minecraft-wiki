@@ -1,6 +1,18 @@
 # Minecraft Wiki
 
+![Archived(10)](https://github.com/viniciusnevescosta/minecraft-wiki/assets/66970818/6d542708-ce12-4872-9126-77174655aeb3)
+
 Bem-vindo ao repositório do meu projeto "Minecraft Wiki"! Aqui, criei uma Wiki para todas as versões do Minecraft (1.17 na época). Passeie pela caverna da informação e descubra que, assim como no jogo, até mesmo a Wiki tem um tema escuro. Obs: Não há creepers, apenas conhecimento explosivo!
+
+- [Read in english](en_README.md)
+
+## Sumário de Conteúdos
+
+- [Visão Geral](#visão-geral)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Funcionalidades](#funcionalidades)
+- [Como Testar](#como-testar)
+- [Aprendizados Adquiridos](#aprendizados-adquiridos)
 
 ## Visão Geral
 
@@ -28,9 +40,11 @@ Este projeto é uma iniciativa educativa para fornecer informações abrangentes
 
 ## Como Testar
 
+### Localmente
+
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/viniciusnevescosta/schoolwork-bmi-calculator.git
+   git clone https://github.com/viniciusnevescosta/minecraft-wiki.git
    ```
 
 2. **Abra o Projeto no Visual Studio:**
